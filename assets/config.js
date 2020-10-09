@@ -13,7 +13,7 @@ const persona = {
 		gestion: ['Liderazgo, ','Evaluación de Proyectos, ','Responsabilidad, ','Estrategias de Gestión, ','Análisis para toma de Decisiones'],
 		tecnicas: ['Análisis de datos, ','Python (WEB / ETL), ','FullStack MEAN, ','Javascript, ','Bases de Datos SQL, ','MySQL - PlSQL, ', 'MongoDB - NoSQL', 'Office']
 	},
-	hobbies: ['Escuchar Música', 'Ver Peliculas', 'Tocar Guitarra', 'Video-Juegos', 'Romper Corazones', 'Jugar Parchis']
+	hobbies: ['Programar','Analítica','Escuchar Música', 'Ver Peliculas', 'Tocar Guitarra', 'Video-Juegos', 'Romper Corazones', 'Jugar Parchis']
 }
 
 // Dejar intácto a partir de aquí.
